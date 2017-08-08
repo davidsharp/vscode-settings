@@ -2,5 +2,9 @@
     "workbench.iconTheme": "vs-seti",
     "editor.fontFamily": "'Fira Code', monospace",
     "editor.fontLigatures": true,
-    "workbench.colorTheme": "Maple Dark+"
+    "workbench.colorTheme": "Maple Dark+",
+    "editor.fontSize": 11,
+    "editor.minimap.renderCharacters": false,
+    "editor.tabSize": 2,
+    "editor.minimap.maxColumn": 60
 }
