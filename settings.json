@@ -16,5 +16,9 @@
     "editor.smoothScrolling": true,
     "editor.minimap.enabled": false,
     "editor.renderWhitespace": "all",
-    "editor.renderControlCharacters": true
+    "editor.renderControlCharacters": true,
+    "atomKeymap.promptV3Features": true,
+    "workbench.statusBar.feedback.visible": false,
+    "zenMode.fullScreen": true,
+    "zenMode.hideTabs": false
 }
