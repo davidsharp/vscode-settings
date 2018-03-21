@@ -20,5 +20,8 @@
     "atomKeymap.promptV3Features": true,
     "workbench.statusBar.feedback.visible": false,
     "zenMode.fullScreen": true,
-    "zenMode.hideTabs": false
+    "zenMode.hideTabs": false,
+    "workbench.editor.tabCloseButton": "off",
+    "window.title": "${activeEditorMedium}${separator}${rootName} ${dirty}",
+    "workbench.editor.labelFormat": "medium"
 }
