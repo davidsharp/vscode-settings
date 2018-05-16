@@ -29,5 +29,6 @@
     "spotify.showMuteUnmuteVolumeButton": false,
     "spotify.showToggleRepeatingButton": true,
     "spotify.showToggleShufflingButton": true,
-    "spotify.statusCheckInterval": 10000
+    "spotify.statusCheckInterval": 10000,
+    "spotify.showLyricsButton": false
 }
