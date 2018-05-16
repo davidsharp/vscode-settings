@@ -23,5 +23,11 @@
     "zenMode.hideTabs": false,
     "workbench.editor.tabCloseButton": "off",
     "window.title": "${activeEditorMedium}${separator}${rootName} ${dirty}",
-    "workbench.editor.labelFormat": "medium"
+    "workbench.editor.labelFormat": "medium",
+    "spotify.showPlayPauseButton": false,
+    "spotify.showNextButton": false,
+    "spotify.showMuteUnmuteVolumeButton": false,
+    "spotify.showToggleRepeatingButton": true,
+    "spotify.showToggleShufflingButton": true,
+    "spotify.statusCheckInterval": 10000
 }
