@@ -26,9 +26,13 @@
     "workbench.editor.labelFormat": "medium",
     "spotify.showPlayPauseButton": false,
     "spotify.showNextButton": false,
+    "spotify.showPreviousButton": false,
     "spotify.showMuteUnmuteVolumeButton": false,
     "spotify.showToggleRepeatingButton": true,
     "spotify.showToggleShufflingButton": true,
     "spotify.statusCheckInterval": 10000,
-    "spotify.showLyricsButton": false
+    "spotify.showLyricsButton": false,
+    "spotify.trackInfoPriority": 2,
+    "spotify.toggleShufflingButtonPriority": 1,
+    "spotify.toggleRepeatingButtonPriority": 0
 }
