@@ -24,9 +24,9 @@
     "workbench.editor.tabCloseButton": "off",
     "window.title": "${activeEditorMedium}${separator}${rootName} ${dirty}",
     "workbench.editor.labelFormat": "medium",
-    "spotify.showPlayPauseButton": false,
-    "spotify.showNextButton": false,
-    "spotify.showPreviousButton": false,
+    "spotify.showPlayPauseButton": true,
+    "spotify.showNextButton": true,
+    "spotify.showPreviousButton": true,
     "spotify.showMuteUnmuteVolumeButton": false,
     "spotify.showToggleRepeatingButton": true,
     "spotify.showToggleShufflingButton": true,
@@ -34,5 +34,8 @@
     "spotify.showLyricsButton": false,
     "spotify.trackInfoPriority": 2,
     "spotify.toggleShufflingButtonPriority": 1,
-    "spotify.toggleRepeatingButtonPriority": 0
+    "spotify.toggleRepeatingButtonPriority": 0,
+    "spotify.useCombinedApproachOnMacOS": true,
+    "peacock.affectStatusBar": true,
+    "peacock.affectActivityBar": true
 }
