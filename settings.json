@@ -88,5 +88,9 @@
             "value": "#42b883"
         }
     ],
-    "breadcrumbs.enabled": true
+    "breadcrumbs.enabled": true,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorBlinking": "smooth",
+    "telemetry.enableTelemetry": false,
+    "workbench.settings.enableNaturalLanguageSearch": false
 }
