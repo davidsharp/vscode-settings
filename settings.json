@@ -92,5 +92,6 @@
     "editor.cursorSmoothCaretAnimation": true,
     "editor.cursorBlinking": "smooth",
     "telemetry.enableTelemetry": false,
-    "workbench.settings.enableNaturalLanguageSearch": false
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "window.restoreWindows": "all"
 }
