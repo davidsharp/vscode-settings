@@ -93,5 +93,7 @@
     "editor.cursorBlinking": "smooth",
     "telemetry.enableTelemetry": false,
     "workbench.settings.enableNaturalLanguageSearch": false,
-    "window.restoreWindows": "all"
+    "window.restoreWindows": "all",
+    "workbench.settings.editor": "json",
+    "workbench.settings.useSplitJSON": true
 }
