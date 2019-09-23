@@ -1,5 +1,5 @@
 {
-    "editor.fontFamily": "'Fira Code', monospace",
+    "editor.fontFamily": "'Cascadia Code','Fira Code', monospace",
     "editor.fontLigatures": true,
     "editor.fontSize": 16,
     "editor.minimap.renderCharacters": false,
@@ -58,6 +58,10 @@
         {
             "name": "Gatsby Purple",
             "value": "#639"
+        },
+        {
+            "name": "Go Cyan",
+            "value": "#5dc9e2"
         },
         {
             "name": "Java Blue-Gray",
