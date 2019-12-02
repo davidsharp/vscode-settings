@@ -1,1 +1,3 @@
 workspaceStorage/*
+globalStorage/*
+.DS_Store
