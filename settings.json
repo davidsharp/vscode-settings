@@ -1,5 +1,5 @@
 {
-    "editor.fontFamily": "'Cascadia Code','Fira Code', monospace",
+    "editor.fontFamily": "'JetBrains Mono','Cascadia Code','Fira Code', monospace",
     "editor.fontLigatures": true,
     "editor.fontSize": 16,
     "editor.minimap.renderCharacters": false,
@@ -99,5 +99,8 @@
     "workbench.settings.enableNaturalLanguageSearch": false,
     "window.restoreWindows": "all",
     "workbench.settings.editor": "json",
-    "workbench.settings.useSplitJSON": true
+    "workbench.settings.useSplitJSON": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    }
 }
