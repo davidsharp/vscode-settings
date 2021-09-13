@@ -1,5 +1,5 @@
 {
-    "editor.fontFamily": "'Cascadia Code','Fira Code', monospace",
+    "editor.fontFamily": "'JetBrains Mono','Cascadia Code','Fira Code', monospace",
     "editor.fontLigatures": true,
     "editor.fontSize": 16,
     "editor.minimap.renderCharacters": false,
@@ -101,4 +101,15 @@
     "workbench.settings.editor": "json",
     "workbench.settings.useSplitJSON": true,
     "editor.bracketPairColorization.enabled": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.columnSelection": false,
+    "editor.multiCursorModifier": "alt",
+    "editor.rulers":[
+        { "column": 80, "color": "#fff2" }
+    ]
 }
