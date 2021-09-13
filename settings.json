@@ -99,5 +99,6 @@
     "workbench.settings.enableNaturalLanguageSearch": false,
     "window.restoreWindows": "all",
     "workbench.settings.editor": "json",
-    "workbench.settings.useSplitJSON": true
+    "workbench.settings.useSplitJSON": true,
+    "editor.bracketPairColorization.enabled": true,
 }
